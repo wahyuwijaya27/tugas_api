@@ -1,4 +1,5 @@
 import 'package:tugas_api/app/http/controllers/customer_controllers.dart';
+import 'package:tugas_api/app/http/controllers/order_controllers.dart';
 import 'package:tugas_api/app/http/controllers/product_controllers.dart';
 import 'package:tugas_api/app/http/controllers/product_note_controllers.dart';
 import 'package:tugas_api/app/http/controllers/vendor_controllers.dart';
@@ -57,5 +58,12 @@ class ApiRoute implements Route {
       Router.put('/{id}', productNoteControllers.update);
       Router.delete('/{id}', productNoteControllers.destroy);
     }, prefix: '/productNote');
+
+    Router.group(() {
+      Router.get('/', orderControllers.index);
+      Router.post('/', orderControllers.store);
+      Router.put('/{id}', orderControllers.update);
+      Router.delete('/{id}', orderControllers.destroy);
+    }, prefix: '/orders');
   }
 }
