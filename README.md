@@ -5,7 +5,8 @@
 
 Evaluasi REST API Menggunakan Framework Vania
 
-<b>CUSTOMERS</b>
+**CUSTOMERS**
+
 create
 ![](./storage/app/image/customers/create.png)
 read
@@ -15,8 +16,9 @@ update
 delete
 1[](./storage/app/image/customers/delete.png)
 
-<b>VENDORS</b>
+**VENDORS**
 create
+
 ![](./storage/app/image/vendors/create.png)
 read
 ![](./storage/app/image/vendors/read.png)
