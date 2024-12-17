@@ -51,18 +51,21 @@ create
 read
 ![](./storage/app/image/orders/read.png)
 update 
-(tidak mem)
+(Tidak memungkinkan untuk melakukan update transaksi)
+delete
 ![](./storage/app/image/orders/delete.png)
 
-ss_register
+<b>REGISTER</b>
 ![](./storage/app/image/register/register.png)
 
-ss_login
+<b>LOGIN</b>
 ![](./storage/app/image/login/login.png)
 
-ss_logout
+<b>LOGOUT</b>
 ![](./storage/app/image/logout/logout.png)
 
-CONTOH HASIL YANG SUDAH MENGGUNAKAN AUTH (saya mencontohkan pada customers)
+<b>CONTOH HASIL YANG SUDAH MENGGUNAKAN AUTH (saya mencontohkan pada customers)</b>
+Jika Berhasil
 ![](./storage/app/image/customersAuth/berhasil.png)
+Jika Gagal
 ![](./storage/app/image/customersAuth/gagal.png)
