@@ -5,33 +5,53 @@
 
 Evaluasi REST API Menggunakan Framework Vania
 
-ss_customers
+<b>CUSTOMERS</b>
+create
 ![](./storage/app/image/customers/create.png)
+read
 ![](./storage/app/image/customers/read.png)
+update
 ![](./storage/app/image/customers/update.png)
+delete
 1[](./storage/app/image/customers/delete.png)
 
-ss_vendors
+<b>VENDORS</b>
+create
 ![](./storage/app/image/vendors/create.png)
+read
 ![](./storage/app/image/vendors/read.png)
+update
 ![](./storage/app/image/vendors/update.png)
+delete
 ![](./storage/app/image/vendors/delete.png)
 
-ss_products
+<b>PRODUCTS</b>
+create
 ![](./storage/app/image/products/create.png)
+read
 ![](./storage/app/image/products/read.png)
+update
 ![](./storage/app/image/products/update.png)
+delete
 ![](./storage/app/image/products/delete.png)
 
-ss_productNote
+<b>PRODUCT NOTE</b>
+create
 ![](./storage/app/image/productNote/create.png)
+read
 ![](./storage/app/image/productNote/read.png)
+update
 ![](./storage/app/image/productNote/update.png)
+delete
 ![](./storage/app/image/productNote/delete.png)
 
-ss_orders
+<b>ORDERS</b>
+create
 ![](./storage/app/image/orders/create.png)
+read
 ![](./storage/app/image/orders/read.png)
+update 
+(tidak mem)
 ![](./storage/app/image/orders/delete.png)
 
 ss_register
